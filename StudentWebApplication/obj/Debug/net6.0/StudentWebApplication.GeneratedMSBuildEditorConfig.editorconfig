@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StudentWebApplication
+build_property.RootNamespace = StudentWebApplication
+build_property.ProjectDir = D:\Profile\Desktop\IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada\Q2\Student1\StudentWebApplication\StudentWebApplication\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Profile\Desktop\IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada\Q2\Student1\StudentWebApplication\StudentWebApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Model/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/CoursInfo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNJbmZvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/CoursInfo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNJbmZvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/CoursInfo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNJbmZvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/CoursInfo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNJbmZvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/CoursInfo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNJbmZvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/StudentDetailInfo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudERldGFpbEluZm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/StudentInfo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudEluZm9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/StudentInfo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudEluZm9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/StudentInfo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudEluZm9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/StudentInfo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudEluZm9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/StudentInfo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudEluZm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Profile/Desktop/IT-WEB-22-59-0028(T)-Thulanee Dinara Malimbada/Q2/Student1/StudentWebApplication/StudentWebApplication/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ctofream4r

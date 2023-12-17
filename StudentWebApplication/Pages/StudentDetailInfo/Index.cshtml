@@ -1,0 +1,28 @@
+﻿    @using StudentWebApplication.Model
+@model List<StudentWebApplication.Model.StudentDetail>
+
+
+
+<h2>Student Information</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Student ID</th>
+            <th>Student Name</th>
+            <th>City</th>
+            <th>Course Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var studentDetail in Model)
+        {
+            <tr>
+                <td>@studentDetail.StudentID</td>
+                <td>@studentDetail.StudentName</td>
+                <td>@studentDetail.City</td>
+                <td>@studentDetail.CourseName</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,37 @@
+﻿@page
+@model StudentWebApplication.Pages.StudentDetailInfo.Index1Model
+@{@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Student.StudentName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Student.StudentName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Student.City)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Student.City)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Student.CourseId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Student.CourseId)
+        </dd>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Course.Name)
+            </dd>
+    </dl>
+</div>
+}
+
